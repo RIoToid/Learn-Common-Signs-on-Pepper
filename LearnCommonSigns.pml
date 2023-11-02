@@ -18,6 +18,11 @@
         <File name="please" src="html/please.jpg" />
         <File name="thanks" src="html/thanks.jpg" />
         <File name="yes" src="html/yes.jpg" />
+        <File name="" src=".gitattributes" />
+        <File name="README" src="README.md" />
+        <File name="cat" src="html/cat.jpg" />
+        <File name="dog" src="html/dog.jfif" />
+        <File name="papaswolio" src="html/papaswolio.jpg" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
