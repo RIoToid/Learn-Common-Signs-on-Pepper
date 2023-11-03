@@ -6,9 +6,7 @@
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="ExampleDialog" src="behavior_1/ExampleDialog/ExampleDialog.dlg" />
-        <Dialog name="learnAlphabet" src="learnAlphabet/learnAlphabet.dlg" />
-        <Dialog name="ExampleDialog" src="ExampleDialog/ExampleDialog.dlg" />
-        <Dialog name="intro" src="intro/intro.dlg" />
+        <Dialog name="learnCommonSigns" src="learnCommonSigns/learnCommonSigns.dlg" />
     </Dialogs>
     <Resources>
         <File name="goodbye" src="html/goodbye.jpg" />
@@ -22,13 +20,10 @@
         <File name="README" src="README.md" />
         <File name="cat" src="html/cat.jpg" />
         <File name="dog" src="html/dog.jfif" />
-        <File name="papaswolio" src="html/papaswolio.jpg" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
-        <Topic name="learnAlphabet_enu" src="learnAlphabet/learnAlphabet_enu.top" topicName="learnAlphabet" language="en_US" />
-        <Topic name="ExampleDialog_enu" src="ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
-        <Topic name="intro_enu" src="intro/intro_enu.top" topicName="intro" language="en_US" />
+        <Topic name="learnCommonSigns_enu" src="learnCommonSigns/learnCommonSigns_enu.top" topicName="learnCommonSigns" language="en_US" />
     </Topics>
     <IgnoredPaths />
     <Translations auto-fill="en_US">
